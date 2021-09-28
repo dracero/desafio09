@@ -1,14 +1,16 @@
 {
-  "name": "desafio6",
+  "name": "desafio9",
   "version": "",
   "description": "",
-  "main": "drdesafio6.js",
+  "main": "drdesafio9.js",
   "scripts": {
-    "start": "nodemon drdesafio6.js"
+    "start": "nodemon drdesafio9.js"
   },
   "author": "",
   "license": "",
   "dependencies": {
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
