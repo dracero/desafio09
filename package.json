@@ -4,7 +4,7 @@
   "description": "",
   "main": "drdesafio9.js",
   "scripts": {
-    "start": "nodemon drdesafio9.js"
+    "start": "node drdesafio9.js"
   },
   "author": "",
   "license": "",
